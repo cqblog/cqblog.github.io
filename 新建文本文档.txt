@@ -1,0 +1,1 @@
+<div id="he-plugin-standard"></div><script>WIDGET = {"CONFIG": {"layout": "1","width": "447","height": "115","background": "1","dataColor": "FFFFFF","modules": "10","key": "d383fe5c1adb4e7ab70a32bbc08be10e"}}</script><script src="https://widget.qweather.net/standard/static/js/he-standard-common.js?v=2.0"></script>
